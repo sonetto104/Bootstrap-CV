@@ -20,6 +20,31 @@
     background-color: #676767;
 }
 
+/* Special Paddings/Margins/Text */
+
+h1, h2, h3, h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: Exo, sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+/* Footer */
+
+footer {
+    color: #fafafa;
+    background-color: #525252;
+    min-height: 120px;
+    margin: 0;
+}
+
 /* Heading */
 
 header {
